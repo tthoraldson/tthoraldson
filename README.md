@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Theresa Thoraldson.
-I'm a Machine Learning Engineer & Software Engineer located in Minneapolis, MN. I currently work at [Rhythm Systems](https://www.rhythmsystems.com/).
+I'm a Machine Learning Engineer & Software Engineer located in Minneapolis, MN. I currently work at [Rhythm Systems](https://www.rhythmsystems.com/). Find out more about me on my [personal website](http://theresa.ai).
 
-- 📚 Currently studying Computer Science at the [University of London](https://www.london.ac.uk/)
+### What I'm working on
+- 🌱 I’m currently learning __MLOps__
+- 📚 Currently studying __Computer Science__ at the [University of London](https://www.london.ac.uk/)
+- ❤️ Seaching for Open Source opportunities
 - 🎓 I recently Completed the __Machine Learning Engineer__ program at [FourthBrain](https://www.fourthbrain.com/).
