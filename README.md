@@ -5,4 +5,4 @@ I'm a Machine Learning Engineer & Software Engineer located in Minneapolis, MN. 
 - 🌱 I’m currently learning __MLOps__
 - 📚 Currently studying __Computer Science__ at the [University of London](https://www.london.ac.uk/)
 - ❤️ __Core Contributor__ at [OpenMined](https://www.openmined.org/)
-- 🎓 I recently Completed the __Machine Learning Engineer__ program at [FourthBrain](https://www.fourthbrain.com/)
+- 🎓 I recently Completed the __Machine Learning Engineer__ program at [FourthBrain](https://www.fourthbrain.ai/)
