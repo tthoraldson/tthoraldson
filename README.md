@@ -1,3 +1,4 @@
+![tthoraldson dynamic header](https://tthoraldson.github.io/tthoraldson/)
 ### Hi there 👋 I'm Theresa Thoraldson.
 I'm a Machine Learning Engineer & Software Engineer located in Minneapolis, MN. I currently work at [Rhythm Systems](https://www.rhythmsystems.com/). Find out more about me on my [personal website](http://theresa.ai).
 
